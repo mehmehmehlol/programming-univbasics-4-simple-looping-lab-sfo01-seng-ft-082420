@@ -22,6 +22,7 @@ def output_array(array)
     puts array[element]
     element += 1
   end
+end
 
 def return_string_array(array)
   element = 0
